@@ -3,7 +3,7 @@
  * Tests all methods inside Connect4logic and Connect4TextConsole
  * using junit as a unit tester.
  *
- * @author Chris Crum
+ * @author  
  * @version 04.20.2024
  */
 
