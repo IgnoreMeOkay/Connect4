@@ -3,7 +3,7 @@
  * Basically it is the ui for the game. Requires Connect4Logic.
  * This class handles game initialization, user inputs, and game display.
  *
- * @author Chris Crum
+ * @author 
  * @version 03.24.2024
  */
 
