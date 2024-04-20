@@ -4,7 +4,7 @@
  * checks for winning moves and blocking moves, or moves randomly.
  * Not extensive, but pretty good.
  *
- * @author Chris Crum
+ * @author  
  * @version 03.31.2024
  */
 
