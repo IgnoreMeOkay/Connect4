@@ -3,7 +3,7 @@
  * The Class provides logic for the game board, player moves,
  * and win/draw/loss conditions.
  *
- * @author Chris Crum
+ * @author 
  * @version 03.24.2024
  */
 package core;
